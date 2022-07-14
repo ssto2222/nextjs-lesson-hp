@@ -49,4 +49,4 @@ export default function Layout({ children, title="HP by Nextjs"}){
         </footer>
         </div>
     );
-}
+};
